@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testForLink</string>
+    <string name="string_taste_of_china">\'@string\'Taste Of China</string>
+    <string name="start">Start</string>
+</resources>
